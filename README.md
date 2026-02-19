@@ -10,7 +10,7 @@ check out my games!
 [Sol's RNG ripoff](https://github.com/Strenatos/Gambling-Simulator)
 
 
-[Bullet-hell with achievents and skins (pretty proud of dis one](https://github.com/Strenatos/OverStory)
+[Bullet-hell with achievents and skins (pretty proud of dis one)](https://github.com/Strenatos/OverStory)
 
 uhh yah :3
 
