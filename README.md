@@ -5,9 +5,9 @@ i exist
 
 check out my games!
 
-https://github.com/Strenatos/Minesweeper Minesweeper
-https://github.com/Strenatos/Gambling-Simulator Sol's RNG ripoff
-https://github.com/Strenatos/OverStory Bullet-hell with achievents and skins
+[Minesweeper](https://github.com/Strenatos/Minesweeper)
+[Sol's RNG ripoff](https://github.com/Strenatos/Gambling-Simulator)
+[Bullet-hell with achievents and skins (pretty proud of dis one](https://github.com/Strenatos/OverStory)
 
 uhh yah :3
 
